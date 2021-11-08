@@ -75,3 +75,41 @@ Optional:
 
 ![20211031_234800](https://user-images.githubusercontent.com/76667866/139619285-1167d3cd-d672-4b59-9437-d2f5f856d6fd.jpg)
 
+# Unit 9
+
+## Schema
+### Models
+#### Post
+| Property | Type | Description |
+| ------------- | -------- | ------------|
+| objectID | String | unique id for the user |
+| author | Pointer to User| image author |
+| image | File | image of artist album |
+| caption | String | image caption by author |
+### Networking
+#### List of network requests
+- Home Feed
+- (Read/GET) Network spotify API ID
+```
+swift
+let SpotifyClientID = "7beed79fd94c4a50af531571320e32c8"
+let SpotifyRedirectURL = URL(string: "spotify-ios-quick-start://spotify-login-callback")!
+lazy var configuration = SPTConfiguration(
+clientID: SpotifyClientID,
+redirectURL: SpotifyRedirectURL
+
+)
+```
+- (Read/GET) Get current users profile
+- (Update/PUT) Follow Playlist
+- (Delete) Unfollow Playlist
+- (Delete) Unfollow Artists or Users
+- Search screen
+- (Read/GET) Search for song or artist
+- Profile Screen
+- (Read/GET) Query logged in user object
+- (Update/PUT) Update user profile image
+- Music Player screen
+- (Update/PUT) Start/Resume Playback
+- (Update/PUT) Pause Playback
+
