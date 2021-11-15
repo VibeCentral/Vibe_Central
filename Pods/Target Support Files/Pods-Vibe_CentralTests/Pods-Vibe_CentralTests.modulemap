@@ -1,0 +1,6 @@
+framework module Pods_Vibe_CentralTests {
+  umbrella header "Pods-Vibe_CentralTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
