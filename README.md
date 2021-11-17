@@ -114,8 +114,11 @@ redirectURL: SpotifyRedirectURL
 - (Update/PUT) Pause Playback
 
 
-Unit 10
+Unit 10: Group Milestone 1
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76667866/141724876-abfa9b4b-ff8b-4521-ab86-f648bbc202e5.gif)
+
+- [x] Configure Spotify Api
+- [x] User can login
 
 
