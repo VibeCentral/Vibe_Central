@@ -121,4 +121,9 @@ Unit 10: Group Milestone 1
 - [x] Configure Spotify Api
 - [x] User can login
 
+Unit 11: Group Milestone 2
+
+- [x] storyboard tabs
+- [x] navigation controller's etc
+
 
