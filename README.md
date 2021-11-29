@@ -126,4 +126,10 @@ Unit 11: Group Milestone 2
 - [x] storyboard tabs
 - [x] navigation controller's etc
 
+Unit 12: Group Milestone 3
+
+- [x] Home page
+- [x] Search Music
+
+
 
