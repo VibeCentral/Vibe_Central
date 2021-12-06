@@ -140,9 +140,13 @@ redirectURL: SpotifyRedirectURL
 - [x] Playlist
 - [x] All tabs
 
-![Gif_2](https://user-images.githubusercontent.com/76667866/144826245-a71cb196-63a2-4df7-9520-245cceaffaea.gif)
+![Gif_1](https://user-images.githubusercontent.com/76667866/144826245-a71cb196-63a2-4df7-9520-245cceaffaea.gif)
 
-![Gif_1](https://user-images.githubusercontent.com/76667866/144788293-4f542d41-1176-436d-9285-a45caf5b507f.gif)
+
+
+![Gif_2](https://user-images.githubusercontent.com/76667866/144788293-4f542d41-1176-436d-9285-a45caf5b507f.gif)
+
+
 
 ![Gif_3](https://user-images.githubusercontent.com/76667866/144826341-e143d20e-8169-4a2c-8639-ae58e49a6518.gif)
 
