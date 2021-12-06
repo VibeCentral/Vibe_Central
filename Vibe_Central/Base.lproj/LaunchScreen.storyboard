@@ -16,23 +16,23 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="VibeCentralLogo" translatesAutoresizingMaskIntoConstraints="NO" id="WdB-RU-LXu">
-                                <rect key="frame" x="80" y="263" width="254" height="380"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="VibeCentralLogo" translatesAutoresizingMaskIntoConstraints="NO" id="wft-nT-Gdy">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WdB-RU-LXu" secondAttribute="bottom" constant="219" id="FCJ-hW-ABI"/>
-                            <constraint firstItem="WdB-RU-LXu" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="219" id="MiC-p7-Eww"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="WdB-RU-LXu" secondAttribute="trailing" constant="80" id="Rme-ey-sCj"/>
-                            <constraint firstItem="WdB-RU-LXu" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="80" id="xfa-jv-nbe"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="wft-nT-Gdy" secondAttribute="trailing" id="J4u-Yw-Sdn"/>
+                            <constraint firstItem="wft-nT-Gdy" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="eug-Mf-FPt"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="wft-nT-Gdy" secondAttribute="bottom" id="oSX-3I-YjN"/>
+                            <constraint firstItem="wft-nT-Gdy" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="s66-5C-sqV"/>
                         </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="53" y="375"/>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
         </scene>
     </scenes>
     <resources>

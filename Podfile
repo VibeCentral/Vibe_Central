@@ -9,6 +9,10 @@ target 'Vibe_Central' do
   pod 'AlamofireImage'
   pod 'BDBOAuth1Manager'
 
+  pod 'SDWebImage'
+  pod 'Appirater'
+  pod 'Firebase/Analytics'
+
   target 'Vibe_CentralTests' do
     inherit! :search_paths
     # Pods for testing
@@ -19,3 +23,5 @@ target 'Vibe_Central' do
   end
 
 end
+
+
