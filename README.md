@@ -133,6 +133,19 @@ Unit 12: Group Milestone 3
 
 Unit 13: Group Milestone 4
 
+- [x] Introduction
+- [x] Team Finish
+- [x] Api Complete
+- [x] Streaming
+- [x] Playlist
+- [x] All tabs
+
+![Gif_1](https://user-images.githubusercontent.com/76667866/144788293-4f542d41-1176-436d-9285-a45caf5b507f.gif)
+
+
+
+
+
 
 
 
