@@ -43,7 +43,7 @@ class WelcomeViewController: UIViewController {
         label.textAlignment = .center
         label.textColor = .white
         label.font = .systemFont(ofSize: 32, weight: .semibold)
-        label.text = "Listen to Millions\nof Songs on\nthe go."
+        label.text = "Browse and listen\nto your favorite songs\n everyday."
         return label
     }()
 
