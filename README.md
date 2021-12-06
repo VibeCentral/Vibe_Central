@@ -75,7 +75,7 @@ Optional:
 
 ![20211031_234800](https://user-images.githubusercontent.com/76667866/139619285-1167d3cd-d672-4b59-9437-d2f5f856d6fd.jpg)
 
-# Unit 9
+# Unit 9 - Schema Design & Sprint Planning
 
 ## Schema
 ### Models
@@ -114,24 +114,24 @@ redirectURL: SpotifyRedirectURL
 - (Update/PUT) Pause Playback
 
 
-Unit 10: Group Milestone 1
+ # Unit 10: Group Milestone 1
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76667866/141724876-abfa9b4b-ff8b-4521-ab86-f648bbc202e5.gif)
 
 - [x] Configure Spotify Api
 - [x] User can login
 
-Unit 11: Group Milestone 2
+# Unit 11: Group Milestone 2
 
 - [x] storyboard tabs
 - [x] navigation controller's etc
 
-Unit 12: Group Milestone 3
+# Unit 12: Group Milestone 3
 
 - [x] Home page
 - [x] Search Music
 
-Unit 13: Group Milestone 4
+# Unit 13: Group Milestone 4
 
 - [x] Introduction
 - [x] Team Finish
@@ -140,9 +140,15 @@ Unit 13: Group Milestone 4
 - [x] Playlist
 - [x] All tabs
 
-![Gif_1](https://user-images.githubusercontent.com/76667866/144788293-4f542d41-1176-436d-9285-a45caf5b507f.gif)
+![Gif_1](https://user-images.githubusercontent.com/76667866/144826245-a71cb196-63a2-4df7-9520-245cceaffaea.gif)
 
 
+
+![Gif_2](https://user-images.githubusercontent.com/76667866/144788293-4f542d41-1176-436d-9285-a45caf5b507f.gif)
+
+
+
+![Gif_3](https://user-images.githubusercontent.com/76667866/144826341-e143d20e-8169-4a2c-8639-ae58e49a6518.gif)
 
 
 
